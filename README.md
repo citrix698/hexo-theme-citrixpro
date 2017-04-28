@@ -1,8 +1,7 @@
 ## CitrixPro模板 修改By @CitrixWu 于2017年04月28日 
 ### [我的博客在这里 →](http://blog.wusijie.net)
-### [CitrixPro模板在这里 →](http://blog.wusijie.net)
-> 原主题为[HuxBlog](https://github.com/Huxpro/huxpro.github.io/blob/master/README.zh.md)的Jekyll主题，
-后来感谢BeanTech修改转移到Hexo主题上，本人再在BeanTech的基础上修复一些小问题。
+### [CitrixPro主题在这里 →](https://github.com/citrix698/hexo-theme-citrixpro)
+> 原主题为[HuxBlog](https://github.com/Huxpro/huxpro.github.io/blob/master/README.zh.md)的Jekyll主题，后来感谢[BeanTech](https://github.com/YenYuHsuan/hexo-theme-beantech/)修改转移到Hexo主题上，本人再在BeanTech的基础上修复一些小问题。
 
 
 #### 主要包括以下修改内容：
@@ -12,7 +11,7 @@
 4. 增加锚点的滑动效果js
 5. 增加不蒜子PV/UV数的统计
 6. 模仿Huxblog修改原来  BeanTech 的About页面，使其更加美观和更具个性。
-7. 更多的修改请猛戳我的[Citrix's Blog](http://blog.wusijie.net)和github@citrix698，不定期更新~
+7. 更多的修改请猛戳我的[Citrix's Blog](http://blog.wusijie.net)和[hexo-theme-citrixpro](https://github.com/citrix698/hexo-theme-citrixpro)，不定期更新~
 
 ![mark](http://7xwui9.com1.z0.glb.clouddn.com/blog/20170428/165609393.jpg)
 
